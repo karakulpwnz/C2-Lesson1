@@ -1,0 +1,9 @@
+D:\Visual studio rep\MyGame\MyGame\obj\Debug\MyGame.csprojAssemblyReference.cache
+D:\Visual studio rep\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+D:\Visual studio rep\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+D:\Visual studio rep\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+D:\Visual studio rep\MyGame\MyGame\bin\Debug\MyGame.exe.config
+D:\Visual studio rep\MyGame\MyGame\bin\Debug\MyGame.exe
+D:\Visual studio rep\MyGame\MyGame\bin\Debug\MyGame.pdb
+D:\Visual studio rep\MyGame\MyGame\obj\Debug\MyGame.exe
+D:\Visual studio rep\MyGame\MyGame\obj\Debug\MyGame.pdb
