@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGame", "MyGame\MyGame.csproj", "{2E242361-AFB8-4CD2-86BC-5F1D5840F1E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List methods", "List methods\List methods.csproj", "{7BC1BD2A-54E6-469D-8AC6-E8735680A0CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E242361-AFB8-4CD2-86BC-5F1D5840F1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E242361-AFB8-4CD2-86BC-5F1D5840F1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E242361-AFB8-4CD2-86BC-5F1D5840F1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E242361-AFB8-4CD2-86BC-5F1D5840F1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BC1BD2A-54E6-469D-8AC6-E8735680A0CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC1BD2A-54E6-469D-8AC6-E8735680A0CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC1BD2A-54E6-469D-8AC6-E8735680A0CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC1BD2A-54E6-469D-8AC6-E8735680A0CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60852345-FAE6-4D64-B541-72B3E4A932E3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+D:\Visual studio rep\MyGame 4\List methods\bin\Debug\List methods.exe.config
+D:\Visual studio rep\MyGame 4\List methods\bin\Debug\List methods.exe
+D:\Visual studio rep\MyGame 4\List methods\bin\Debug\List methods.pdb
+D:\Visual studio rep\MyGame 4\List methods\obj\Debug\List methods.csprojAssemblyReference.cache
+D:\Visual studio rep\MyGame 4\List methods\obj\Debug\List methods.csproj.CoreCompileInputs.cache
+D:\Visual studio rep\MyGame 4\List methods\obj\Debug\List methods.exe
+D:\Visual studio rep\MyGame 4\List methods\obj\Debug\List methods.pdb
